@@ -1,4 +1,4 @@
-##The following is a list to run JDBookStore instructors:
+## The following is a list to run JDBookStore instructors:
 - Make sure that XAMPP is properly installed
 - Clone the project from github and place it in the "C:\xampp\htdocs" folder.
 - Then run XAMPP. Open the XAMPP installation folder at "C:\xampp\", then double-click the "xampp-control.exe" file, click the Start button in the Action column for the Apache and MySQL menu.
